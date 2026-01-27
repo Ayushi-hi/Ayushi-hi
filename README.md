@@ -2,8 +2,6 @@
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushi-hi" alt="ayushi-hi" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Full-Stack**
 
 - 🤝 I’m looking for help with **Backend**
