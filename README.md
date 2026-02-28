@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="230" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif">
 
 ### 🎀 About Me
 
@@ -44,7 +44,7 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ayushi-hi&show_icons=true&theme=radical" height="150"/>
-<img src="https://streak-stats.demolab.com?user=Ayushi-hi&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushi-hi&theme=radical" height="150"/>
 </p>
 
 ---
