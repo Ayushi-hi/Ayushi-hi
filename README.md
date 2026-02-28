@@ -33,11 +33,14 @@
 ### 🌷 Connect With Me
 
 <p align="center">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="YOUR_INSTAGRAM_LINK"><img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:ayushisingh1457@gmail.com"><img src="https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<a href="https://linkedin.com/in/YOURUSERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-ffc0cb?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
+<a href="mailto:ayushisingh1457@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ff1493?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+</p>
 ---
 
 ### 🌸 GitHub Stats 🌸
